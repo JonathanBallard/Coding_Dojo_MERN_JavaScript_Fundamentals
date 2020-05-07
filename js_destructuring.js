@@ -19,7 +19,8 @@ console.log(otherRandomCar)
 */
 
 //1 Output
-// 
+// 'Tesla'
+// 'Mercedes'
 
 
 
@@ -42,7 +43,8 @@ console.log(otherName);
 */
 
 //2 Output
-// 
+// undefined
+// 'Elon'
 
 
 /* Problem 3
@@ -61,7 +63,8 @@ console.log(hashedPassword);
 */
 
 //3 Output
-// 
+// 12345
+// undefined
 
 
 
@@ -78,7 +81,8 @@ console.log(first == third);
 */
 
 //4 Output
-// 
+// false
+// true
 
 
 
@@ -101,7 +105,10 @@ console.log(willThisWork);
 */
 
 //5 Output
-// 
+// 'value'
+// [1, 5, 1, 8, 3, 3]
+// 1
+// 5
 
 
 
