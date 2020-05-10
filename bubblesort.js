@@ -1,5 +1,5 @@
 
-let array = [9,5,7,3,4,2,8,1,6];
+let array = [9,5,7,40,3,4,2,8,1,6,10,15,30,2,5,9];
 
 function bubbleSort(arr,end){
     if(end > 0){
